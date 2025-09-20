@@ -1,10 +1,9 @@
 ---
 name: User Story
-about: This template defines user story
-title: ''
-labels: ''
+about: Template for creating user stories in Agile format
+title: "[User Story]"
+labels: new
 assignees: ''
-
 ---
 
 **As a** [role]  
@@ -18,4 +17,5 @@ assignees: ''
 ```gherkin
 Given [some context]  
 When [certain action is taken]  
-Then [the outcome of action is observed]
+Then [the outcome of action is observed]  
+
